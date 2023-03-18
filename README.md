@@ -68,6 +68,6 @@
     alt="xd" width="40" height="40"/> </a>  -->
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osas-idemudia&show_icons=true&locale=en&layout=compact" alt="idemudia"/> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osas-idemudia&show_icons=true&locale=en&layout=compact" alt="idemudia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osas-idemudia&" alt="idemudia" /></p>
