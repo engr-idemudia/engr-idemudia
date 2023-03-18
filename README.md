@@ -15,9 +15,10 @@
 - ⚡ Fun fact:  **I am also a teacher & a great cook**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/maximudia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-       generator/master/src/images/icons/Social/twitter.svg" alt="Idemudia" height="30" width="40" /></a>
+<p align="left"><a href="https://twitter.com/maximudia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-           profile-readme- generator/master/src/images/icons/Social/twitter.svg" alt="Idemudia" height="30" width="40" /></a>
+    
     <a href="https://www.linkedin.com/in/idemudia-monday-osaghae/" target="blank"><img align="center"                                                           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Idemudia"         height="30" width="40" /></a>
+    
     <a href="https://www.instagram.com/idemudia.osaghae/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-         profile-  readme-generator/master/src/images/icons/Social/instagram.svg" alt="Idemudia" height="30" width="40" /></a>
 </p>
 
