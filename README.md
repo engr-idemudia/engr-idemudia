@@ -10,7 +10,7 @@
 
 - 👨‍💻 Checkout my Portfolio:  [https://www.idemudia.dev/](https://www.idemudia.dev/)
 
-- 📫 How to reach me:  **idemudiamondayosaghae@gmail.com**
+- 📫 How to reach me:  **admin@idemudia.dev**
 
 - ⚡ Fun fact:  **I am also a teacher & a great cook**
 
