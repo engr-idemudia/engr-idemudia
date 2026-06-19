@@ -1,9 +1,9 @@
 # Hi, I'm Idemudia M. Osaghae 👋
 
-**Software Engineer | Backend Development · Fintech · Application Security**
+**Software Engineer | Backend & Full-Stack · Fintech · Application Security**
 Based in Tallinn, Estonia 🇪🇪 · Open to relocation
 
-I build secure, scalable systems for fintech and SaaS products. I hold two BSc degrees — in Software Development & Entrepreneurship, and in Mathematics & Computer Science — and I care about clean architecture, security, and writing code that lasts.
+I build and ship real, deployed applications — across backend, APIs, and full-stack web. My focus is backend engineering, with a strong interest in security and clean architecture. I hold two BSc degrees, in Software Development & Entrepreneurship and in Mathematics & Computer Science, and I enjoy turning complex problems into reliable, maintainable systems.
 
 ---
 
@@ -11,31 +11,43 @@ I build secure, scalable systems for fintech and SaaS products. I hold two BSc d
 
 **Languages:** Java · TypeScript · JavaScript · Python · SQL
 
-**Backend:** Spring Boot · Node.js · Express · REST APIs · JWT
+**Backend:** Spring Boot · Node.js · Express · REST APIs
 
 **Frontend:** React · Next.js
 
-**Databases:** PostgreSQL · MySQL · MongoDB
+**Databases:** PostgreSQL · MySQL · Firebase · MongoDB
 
 **DevOps:** Docker · GitHub Actions · CI/CD · Vercel · Render · Railway
+
+**Security:** JWT · OAuth2 · OWASP principles · Dependency scanning (Dependabot)
 
 ---
 
 ### 🚀 Featured Projects
 
-- **[NextBank](https://github.com/engr-idemudia/NextBank)** — Full-stack fintech banking platform with Plaid & Dwolla integrations (Next.js, TypeScript, Appwrite).
-- **[Kindergarten SaaS](https://github.com/engr-idemudia/kindergarten-app)** — Multi-tenant management platform built with Spring Boot & Next.js. [Live →](https://kindergarten.idemudia.dev)
-- **[SaaS Translator](https://github.com/engr-idemudia/saas-translator-app)** — Real-time multi-language chat with Stripe subscriptions. [Live →](https://translator.idemudia.dev)
-- **[Meal Tracker](https://github.com/engr-idemudia/meal-tracker)** — Full-stack nutrition app; a 2026 rebuild on Node.js, Express & PostgreSQL. [Live →](https://meal-tracker.idemudia.dev)
+🟢 4 live, deployed projects · actively building and shipping
+
+- **[NextBank](https://nextbank.idemudia.dev)** — Full-stack fintech banking platform with secure bank linking via Plaid OAuth and ACH transfers through Dwolla. Built with Next.js, TypeScript & Appwrite. [Live →](https://nextbank.idemudia.dev)
+- **[Kindergarten App](https://github.com/engr-idemudia/kindergarten-app)** — Multi-tenant SaaS management platform with JWT-based tenant isolation and role-based access control. Built with Spring Boot, Next.js & PostgreSQL. [Live →](https://kindergarten.idemudia.dev)
+- **[SaaS Translator](https://translator.idemudia.dev)** — Real-time multi-language chat with Firebase authentication and Stripe subscription tiers. Built with Next.js & TypeScript. [Live →](https://translator.idemudia.dev)
+- **[Meal Tracker](https://meal-tracker.idemudia.dev)** — Full-stack nutrition app with a JWT-secured REST API; a 2022 AdonisJS project rebuilt on Node.js, Express & PostgreSQL. [Live →](https://meal-tracker.idemudia.dev)
+
+---
+
+### 📜 Certifications
+
+- **Certified Ethical Hacker (CEH)** — EC-Council
+- **Fortinet NSE1** — Network Security Associate
+- **Agile Software Development Bootcamp** — Proekspert (top 16 of 97)
 
 ---
 
 ### 📫 Reach Me
 
 - Portfolio: [idemudia.dev](https://idemudia.dev)
-- Email: admin@idemudia.dev
-- LinkedIn: [in/engr-idemudia](https://linkedin.com/in/engr-idemudia)
+- Email: [admin@idemudia.dev](mailto:admin@idemudia.dev)
+- LinkedIn: [in/engr-idemudia](https://www.linkedin.com/in/engr-idemudia)
 
 ---
 
-*Currently learning every day and open to backend & full-stack engineering roles.*
+Open to backend & full-stack engineering roles. Let's build something solid together.
