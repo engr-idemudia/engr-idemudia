@@ -36,9 +36,9 @@ I build and ship real, deployed applications — across backend, APIs, and full-
 
 ---
 
-### 📜 Certifications
+### 📜 Courses & Recognition
 
-- **Certified Ethical Hacker (CEH)** — EC-Council
+- **Certified Ethical Hacker (CEH) Course** — New Horizons, 2015
 - **Agile Software Development Bootcamp** — Proekspert (top 16 of 97)
 
 ---
